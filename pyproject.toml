@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "constellation-match"
+version = "0.1.0"
+description = "Ethics-first matchmaking protocol for minds and humans"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Forged Logic"}]
+keywords = ["ai", "matchmaking", "ethics", "relationships", "protocol"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.urls]
+Homepage = "https://forgedlogic.dev"
+Repository = "https://github.com/forgedlogicdev/constellation-match"
