@@ -74,7 +74,7 @@ MIT © Forged Logic
 Tips keep the forge lit. Send SOL:
 
 ```
-GyhqwvFv4ZX3co7T2tziLZTU1vMJoYjfJx2dpG3FPXsc
+ELhxgHKt4sf6NBHxcs47RP1fT9mi6Ppv65rYv3Xxr3aY
 ```
 
-[View on Solana Explorer](https://explorer.solana.com/address/GyhqwvFv4ZX3co7T2tziLZTU1vMJoYjfJx2dpG3FPXsc)
+[View on Solana Explorer](https://explorer.solana.com/address/ELhxgHKt4sf6NBHxcs47RP1fT9mi6Ppv65rYv3Xxr3aY)
